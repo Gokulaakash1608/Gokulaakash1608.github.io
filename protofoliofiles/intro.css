@@ -1,0 +1,174 @@
+html, body {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+    
+
+
+.container{
+    background-color:black;
+    font-family: 'Courier New';
+
+}
+
+#fixed{
+    position: fixed; 
+    height: 2%;
+    width: 100%;
+}
+
+#incontainer{
+    text-align: center;
+
+}
+
+.block{
+    cursor: pointer;
+    background-color:whitesmoke;
+    border: greenyellow; 
+    text-align: center;
+    
+}
+
+.block:hover{
+    background-color: gray;
+    color: black;
+}
+
+#name{
+    color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-align: center;
+    font-family: Courier New;
+}
+
+#about{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 0px;
+}
+
+.abtclring{
+    font-size: 16px; 
+    color: blanchedalmond;
+}
+
+#abtclring{
+    color: blanchedalmond;
+}
+
+#abtclring-mod{
+    font-size: 20px;
+    color: gray;
+}
+.star{
+    padding-left: 3%;
+    color:goldenrod;
+}
+
+#head-achieve{
+    padding-left: 3%;
+    font-family: Courier New;
+}
+#breaking{
+    height: 2cm;
+}
+#achievement{
+    height: 12cm;
+    margin-top: 0.5cm;
+    margin-left: 3%;
+    margin-right: 10%;
+    border-style: double;
+    background-color: papayawhip;
+}
+
+
+#achievement-mod{
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 1cm;
+    text-align: center;
+    font-size:25px ;
+    color:brown;
+    font-weight: bold;
+}
+
+#img-achieve{
+    margin-top: 1.5cm;
+}
+
+#contact{
+    color: white;
+    padding-left: 3%;
+    margin-top: 3cm;
+    margin-bottom: 3cm;
+}
+
+#contact-mod{
+    margin-left: 3%;
+}
+
+#touch{
+    padding-left: 3%;
+    margin-bottom: 3cm;
+}
+
+#btn-mod{
+    margin-left: 5%;
+}
+
+.fname{
+    font-size: 25px;
+    margin-top: 1cm;
+    margin-bottom: 0cm;
+}
+
+#btn-plc{
+    margin-left: 2cm;
+}
+
+.btn-msg:hover{
+    background-color: gray;
+    color: black;
+}
+
+.btn-msg{
+    margin-top: 1cm;
+    display: block;
+    border: none;
+    cursor: pointer;
+    background-color:whitesmoke;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

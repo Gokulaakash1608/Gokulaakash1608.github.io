@@ -1,0 +1,124 @@
+.zoom-heading{
+    text-align: center;
+    font-weight: bolder;
+    color: cornflowerblue;
+}
+
+#bccolor{
+    background-color: darkslateblue;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#meetingpricing{
+    background-color: lightblue;
+    height: 50px;
+    color:black;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+#signinclr{
+    color: red;
+    padding-right: 20px;
+    font-weight: bolder;
+}
+
+.one-cons{
+    height:240px;
+    text-decoration: black;
+    background-color: lightgrey;
+    text-align: center;
+    padding:20px 20px;
+}
+#oneheading{
+    display: flex;
+    justify-content: space-between;
+    color:cornflowerblue;
+}
+#cons-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+#reviews{
+    background-color: lightyellow;
+    height: 400px;
+    text-align: center;
+    padding: 20px 20px;
+}
+#inside-review{
+    font-size:40px;
+    justify-content: space-between;
+    display: flex;
+    padding: 20px 20px;
+}
+#review-partner{
+    display: flex;
+    justify-content: space-between;
+}
+#zoom-part{
+    background-color: lightblue;
+}
+#whyzoom{
+    color: deepskyblue;
+    text-align: center;
+
+}
+
+#zoom-ans{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+
+#customer-love{
+    height: 170px;
+    background-color: bisque;
+    transition: left 2s;
+}
+#one-customer{
+    display: flex;
+    font-style: italic;
+    font-size: 25px;
+    justify-content: space-between;
+    padding-right:20px ;
+    padding-left: 20px;
+}
+#sec-customer{
+    display: flex;
+    font-style: italic;
+    font-size: 25px;
+    justify-content: space-between;
+    padding-right:20px ;
+    padding-left: 20px;
+}
+
+#customer-support{
+    background-color:darkslateblue;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#last-heading ul{
+    list-style: none;
+    padding-left: 250px;
+}
+
+#Download ul{
+    list-style: none;
+}
+
+#supporting ul{
+    list-style: none;
+    padding-right: 250px;
+
+}
+#final{
+    text-align: center;
+}
